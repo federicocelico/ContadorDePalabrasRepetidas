@@ -1,0 +1,6 @@
+D:\WordCount\WordCount\bin\Debug\WordCount.exe.config
+D:\WordCount\WordCount\bin\Debug\WordCount.exe
+D:\WordCount\WordCount\bin\Debug\WordCount.pdb
+D:\WordCount\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+D:\WordCount\WordCount\obj\Debug\WordCount.exe
+D:\WordCount\WordCount\obj\Debug\WordCount.pdb
